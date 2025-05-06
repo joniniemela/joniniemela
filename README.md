@@ -1,4 +1,31 @@
-## Hi there 👋
+## Welcome to my page 👋
+
+I am a software developer from Lappeenranta, Finland. I am passionately interested in computer science and technology and always looking for new problems and challenges to defeat.
+
+I am currently focusing on Web-based applications development with several modern tools & frameworks:
+- React with Next.js
+- REST API development with ExpressJS & NestJS
+- UI/UX Development and other user-related enhancements
+- TailwindCSS
+- PostgreSQL
+
+I have experience on several languages:
+- HTML
+- CSS
+- JS (Typescript)
+- Python
+- Lua
+- C#
+- SQL
+
+My main principle is writing code that is clean, scalable and efficient.
+
+I am also experienced in deployment and infrastructure management with several different environments:
+- Microsoft 365 / Azure
+- Google Cloud Platform
+- On-premises hardware virtualization platforms (VMware, Proxmox, Hyper-V)
+- Software virtualizations with Docker
+
 
 <!--
 **joniniemela/joniniemela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
