@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-I am a software developer from Lappeenranta, Finland. I am passionately interested in computer science and technology and always looking for new problems and challenges to defeat.
+I am a software developer from Lappeenranta, Finland. I am passionately interested in computers and technology and always looking for new problems and challenges to defeat.
 
 I am currently focusing on Web-based applications development with several modern tools & frameworks:
 - React with Next.js
