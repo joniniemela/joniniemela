@@ -2,7 +2,7 @@
 
 I am a software developer from Lappeenranta, Finland. I am passionately interested in computers and technology and always looking for new problems and challenges to defeat.
 
-I am currently focusing on Web-based applications development with several modern tools & frameworks:
+I am currently focusing on Full stack applications development with several modern tools & frameworks:
 - React with Next.js
 - REST API development
 - UI/UX Development and other user-related enhancements
