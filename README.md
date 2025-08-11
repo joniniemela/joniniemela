@@ -4,10 +4,8 @@ I am a software developer from Lappeenranta, Finland. I am passionately interest
 
 I am currently focusing on Web-based applications development with several modern tools & frameworks:
 - React with Next.js
-- REST API development with ExpressJS & NestJS
+- REST API development
 - UI/UX Development and other user-related enhancements
-- TailwindCSS
-- PostgreSQL
 
 I have experience on several languages:
 - HTML
