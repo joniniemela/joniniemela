@@ -7,17 +7,6 @@ I am currently focusing on Full stack applications development with several mode
 - REST API development
 - UI/UX Development and other user-related enhancements
 
-I have experience on several languages:
-- HTML
-- CSS
-- JS (Typescript)
-- Python
-- Lua
-- C#
-- SQL
-
-My main principle is writing code that is clean, scalable and efficient.
-
 I am also experienced in deployment and infrastructure management with several different environments:
 - Microsoft 365 / Azure
 - Google Cloud Platform
