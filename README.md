@@ -7,12 +7,6 @@ I am currently focusing on Full stack applications development with several mode
 - REST API development
 - UI/UX Development and other user-related enhancements
 
-I am also experienced in deployment and infrastructure management with several different environments:
-- Microsoft 365 / Azure
-- Google Cloud Platform
-- On-premises hardware virtualization platforms (VMware, Proxmox, Hyper-V)
-- Software virtualizations with Docker
-
 
 <!--
 **joniniemela/joniniemela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
