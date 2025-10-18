@@ -4,8 +4,10 @@ I am a software engineering student from Lappeenranta, Finland. I am passionatel
 
 I am currently focusing on Full stack applications development with several modern tools & frameworks:
 - React with Next.js
+- Cross-platform mobile app development with React Native
 - REST API development
 - UI/UX Development and other user-related enhancements
+- CI/CD Pipelines with Github Actions
 
 
 <!--
