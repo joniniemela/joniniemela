@@ -2,13 +2,6 @@
 
 Software Developer from Lappeenranta, Finland. Passionately interested in computers and technology and always looking for new problems and challenges to defeat.
 
-I am currently focusing on Full stack applications development with several modern tools & frameworks:
-- React with Next.js
-- Cross-platform mobile app development with React Native
-- REST API development
-- UI/UX Development and other user-related enhancements
-- CI/CD Pipelines with Github Actions
-
 
 <!--
 **joniniemela/joniniemela** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
