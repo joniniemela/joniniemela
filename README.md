@@ -1,6 +1,6 @@
 ## Welcome to my page 👋
 
-I am a software engineering student from Lappeenranta, Finland. I am passionately interested in computers and technology and always looking for new problems and challenges to defeat.
+Software Developer from Lappeenranta, Finland. Passionately interested in computers and technology and always looking for new problems and challenges to defeat.
 
 I am currently focusing on Full stack applications development with several modern tools & frameworks:
 - React with Next.js
